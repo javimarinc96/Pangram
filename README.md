@@ -1,3 +1,4 @@
+![pangram](https://user-images.githubusercontent.com/44240533/226493637-370ff1ef-ee4a-4b93-8684-11d7d6d8cc5b.svg)
 # Pangram
 
 Welcome to Pangram on Exercism's Java Track.
